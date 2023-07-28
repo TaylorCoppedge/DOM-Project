@@ -8,7 +8,7 @@ Create a form that asks the user to input their first and last name into two dif
 
 Your HTML page should include instructions based on your function. For example:
 
-<h1>Please Enter Your First and Last Name</h1>
+[<h1>Please Enter Your First and Last Name</h1>]
 
 Step 2
 Within your JavaScript file, add the following:
